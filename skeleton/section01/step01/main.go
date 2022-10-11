@@ -7,4 +7,5 @@ package main
 func main() {
 	// 「Hello, 世界」と出力
 	println("Hello, 世界")
+	
 }
